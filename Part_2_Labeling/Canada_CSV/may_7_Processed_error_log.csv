@@ -1,2 +1,4 @@
 llm_tracker,error_message
 2,too many values to unpack (expected 2)
+3,too many values to unpack (expected 2)
+8,too many values to unpack (expected 2)
